@@ -8,7 +8,7 @@
    <name> app4 Datos del Dispositivo </name>
    
    <description>
-Aplicacion que muestra los Datos del Dispositivo
+	Aplicacion que muestra los Datos del Dispositivo
    </description>
    
    <author href="https://build.phonegap.com" email="evelyn.gutierrez.cbtis16@gmail.com">
@@ -28,9 +28,9 @@ Aplicacion que muestra los Datos del Dispositivo
    <!--Core plugins-->
    <plugin name="cordova-plugin-device" spec="~1.1.4"/>
    <plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
-   <plugin name="cordova-plugin-device" spec="~1.3.1"/>
+   <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
    
-   <!--plugin name="cordova-pligin-geolocation" source="npm"/>-->
+   <!--<plugin name="cordova-pligin-geolocation" source="npm" /> -->
    <!--Third party plugins-->
    
     <!--Colocar icono app-->
